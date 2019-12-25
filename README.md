@@ -17,12 +17,17 @@ Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") 
 **Nama perusahaan**: T-NET Indonesia
 
 **Cabang Grup** : 
+
 a. T-NET vga Kuning
+
 b. T-NET vga Biru
 
 **Outlet Cabang** :
+
 i. T-NET vga Kuning BSD
+
 ii. T-NET vga Biru PIK
+
 iii. T-NET vga Biru Surabaya
 
 ```c
