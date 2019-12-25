@@ -6,11 +6,26 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 
 ------------
 
-### Menu
+### Fitur
 
-- Kekurangan dan Kelebihan Nimbus
-- Cara Install
-- 
+- Cloud Database (tidak perlu khawatir PC Operator kena VIRUS, data tetap aman)
+- 1 Account bisa untuk semua tipe PC (VIP / REGULAR / PREMIUM) 
+- Sistem auto potong saldo. `contoh : saldo 20 Ribu, VIP @10k / jam, REG @5k / jam. maka saat login ke VIP sisa waktu 2 jam, tapi saat login ke Regular sisa waktu 4jam`
+- Sistem Paket (promo) bisa fleksible dari rentang waktu pemakaian.
+- Ada Level Member (setiap level bisa di atur harus akumulasi biling berapa banyak untuk naik level) dan setiap Level bisa di atur Harga yang berbeda.
+- Order Makanan dan minuman bisa otomatis langsung potong saldo di Billing.
+- Refund / Void approve via CMS jadi owner tidak perlu ada di tempat. (kasir request void, owner approve dimana saja)
+- Android Apss untuk Owner
+- Chat Client ke Operator / Kasir
+- Bisa Multi Operator / Kasir `contoh : warnet 5 lantai, tiap lantai ada operator juga bisa tidak jadi masalah`
+- 1 Account bisa konek ke cabang kalian yang di inginkan. `contoh : isi di jakarta main di cabang malang, bisa !! mau dibuat tidak terkoneksi? bisa juga gak jadi masalah.`
+- Sudah ada sistem POS untuk F&B beserta Inventory.
+- Anda pengguna Cyberindo? Pondo billing? Smart Billing? mau migrasi database member?? BISA!!
+- Ganti Wallpaper Desktop Client lewat CMS
+- etc (nanti diupdate lagi saya lupa apa saja, karena terlalu banyak fitur)
+
+**Akan datang :**
+- Jual voucher langsung dapat untung dan bisa langsung potong biling user.
 
 ### Cara Mendaftar
 
