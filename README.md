@@ -12,7 +12,7 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") lalu pilih create account. 
 - **Cybercafe Name** silakan di isi sebagai Level pertama / nama perusahaan dari bisnis warnet anda. Di **NimbusCafe** anda bisa langsung mengelolah 3 level kedalaman struktur bisnis warnet anda.
 
- Ilustrasi:
+ *Ilustrasi*:
 
 **Nama perusahaan**: T-NET Indonesia
 
@@ -35,7 +35,7 @@ Q : Kalau saya tidak punya cabang?
 A : Isi aja semua sama.
 ```
 
-- **Mobile Number** harus diawali oleh +62 *contoh * : +6282112888822
+- **Mobile Number** harus diawali oleh +62 *contoh* : +6282112888822
 
 ------------
 
