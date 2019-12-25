@@ -27,6 +27,8 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 **Akan datang :**
 - Jual voucher langsung dapat untung dan bisa langsung potong biling user.
 
+------------
+
 ### Cara Mendaftar
 
 Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") lalu pilih create account. 
@@ -58,6 +60,8 @@ A : Isi aja semua sama.
 
 ### Download
 Kunjungi [nimbuscafe.id](https://nimbuscafe.id "nimbuscafe.id") scroll kebawah sedikit lalu ada tombol Download Installer.
+
+------------
 
 ### Lisence Key dan ID Cybercafe
 Untuk mendapatkan kedua hal tersebut pertama anda harus login ke [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") menggunakan account yang anda telah buat di atas.
