@@ -6,11 +6,16 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 
 ------------
 
+### Menu
+
+- Kekurangan dan Kelebihan Nimbus
+- Cara Install
+- 
 
 ### Cara Mendaftar
 
 Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") lalu pilih create account. 
-- **Cybercafe Name** silakan di isi sebagai Level pertama / nama perusahaan dari bisnis warnet anda. Di **NimbusCafe** anda bisa langsung mengelolah 3 level kedalaman struktur bisnis warnet anda.
+1. **Cybercafe Name** silakan di isi sebagai Level pertama / nama perusahaan dari bisnis warnet anda. Di **NimbusCafe** anda bisa langsung mengelolah 3 level kedalaman struktur bisnis warnet anda.
 
  *Ilustrasi*:
 
@@ -18,24 +23,21 @@ Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") 
 
 **Cabang Grup** : 
 
-a. T-NET vga Kuning
-
-b. T-NET vga Biru
+- T-NET vga Kuning
+- T-NET vga Biru
 
 **Outlet Cabang** :
 
-i. T-NET vga Kuning BSD
-
-ii. T-NET vga Biru PIK
-
-iii. T-NET vga Biru Surabaya
+- T-NET vga Kuning BSD
+- T-NET vga Biru PIK
+- T-NET vga Biru Surabaya
 
 ```c
 Q : Kalau saya tidak punya cabang? 
 A : Isi aja semua sama.
 ```
 
-- **Mobile Number** harus diawali oleh +62 *contoh* : +6282112888822
+2. **Mobile Number** harus diawali oleh +62 *contoh* : +6282112888822
 
 ------------
 
