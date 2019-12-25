@@ -74,3 +74,6 @@ Untuk mendapatkan kedua hal tersebut pertama anda harus login ke [cms.nimbuscafe
 **Lisence Key** ada di My Branches
 
 **Cybercafe ID** ada di My Cybercafe
+
+Selanjutnya baca di 
+[WIKI NIMBUSCAFE INDONESIA](https://github.com/uzzielpelawak/nimbuscafe.id/wiki "WIKI NIMBUSCAFE INDONESIA")
