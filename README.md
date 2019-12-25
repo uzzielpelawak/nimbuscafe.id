@@ -18,7 +18,7 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 - Android Apss untuk Owner
 - Chat Client ke Operator / Kasir
 - Bisa Multi Operator / Kasir `contoh : warnet 5 lantai, tiap lantai ada operator juga bisa tidak jadi masalah`
-- 1 Account bisa konek ke cabang kalian yang di inginkan. `contoh : isi di jakarta main di cabang malang, bisa !! mau dibuat tidak terkoneksi? bisa juga gak jadi masalah.`
+- 1 Account bisa konek ke cabang kalian yang di inginkan. `contoh : isi di jakarta main di cabang malang, bisa !! mau dibuat tidak terkoneksi? bisa juga, tidak jadi masalah.`
 - Sudah ada sistem POS untuk F&B beserta Inventory.
 - Anda pengguna Cyberindo? Pondo billing? Smart Billing? mau migrasi database member?? BISA!!
 - Ganti Wallpaper Desktop Client lewat CMS
