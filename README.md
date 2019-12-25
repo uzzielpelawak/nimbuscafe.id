@@ -12,22 +12,17 @@ Semua lisensi berada penuh dibawah [GoDigital Corporation](https://www.linkedin.
 Silakan buka [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") lalu pilih create account. 
 - **Cybercafe Name** silakan di isi sebagai Level pertama / nama perusahaan dari bisnis warnet anda. Di **NimbusCafe** anda bisa langsung mengelolah 3 level kedalaman struktur bisnis warnet anda.
 
-*Ilustrasi: *
+ Ilustrasi:
 
-**Nama perusahaan **: T-NET Indonesia
+**Nama perusahaan**: T-NET Indonesia
 
 **Cabang Grup** : 
-
 a. T-NET vga Kuning
-
 b. T-NET vga Biru
 
 **Outlet Cabang** :
-
 i. T-NET vga Kuning BSD
-
 ii. T-NET vga Biru PIK
-
 iii. T-NET vga Biru Surabaya
 
 ```c
@@ -42,7 +37,7 @@ A : Isi aja semua sama.
 ### Download
 Kunjungi [nimbuscafe.id](https://nimbuscafe.id "nimbuscafe.id") scroll kebawah sedikit lalu ada tombol Download Installer.
 
-###Lisence Key dan ID Cybercafe
+### Lisence Key dan ID Cybercafe
 Untuk mendapatkan kedua hal tersebut pertama anda harus login ke [cms.nimbuscafe.id](https://cms.nimbuscafe.id "cms.nimbuscafe.id") menggunakan account yang anda telah buat di atas.
 
 - Pilih menu **Branch Group** (lihat di ilustrasi di atas sebagai Cabang Grup).
@@ -51,5 +46,4 @@ Untuk mendapatkan kedua hal tersebut pertama anda harus login ke [cms.nimbuscafe
 - Add Branch (isi detail tentang warnet kalian).
 
 **Lisence Key** ada di My Branches
-
 **Cybercafe ID** ada di My Cybercafe
